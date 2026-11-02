@@ -44,10 +44,6 @@ Currently strengthening my cybersecurity knowledge and software engineering fund
 
 ### Featured Projects
 
-**[MandiConnect](https://github.com/Tejas29s/MandiConnect)**
-
-A farm-to-retail marketplace concept designed to connect farmers and buyers.
-
 **[NOVA-AI](https://github.com/Tejas29s/NOVA-AI)**
 
 An AI-powered chatbot project focused on conversational experiences and backend integration.
